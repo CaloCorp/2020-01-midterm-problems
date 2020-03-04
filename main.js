@@ -27,12 +27,13 @@ function getAverage (array){
 for(let i=0;i< array.length;i++){
 let theAverage=0
 
-
-
-
+if (i<=array.length)
+{
+theAverage.push(array+=i /array.length)}
 
 
 }  
+return theAverage
 }
 
 function getMiddleLetters(str){
