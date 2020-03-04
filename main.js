@@ -73,9 +73,11 @@ function removeTrolls(array){
 }
 
 
-function cipher(){}
+function cipher(str){}
 
-function addToMultiDigitNumbers(){}  
+function addToMultiDigitNumbers(num,array){}  
+
+function hyphenateNames (array){}
 
 /*********************************
  * OUR CODE BELOW; DO NOT TOUCH! *
